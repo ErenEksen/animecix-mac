@@ -33,7 +33,7 @@ export class Main {
             contextIsolation: false,
             nodeIntegrationInSubFrames: true,
             preload: this.dir + "/files/preload.js",
-            //nativeWindowOpen: true,
+            
           },
           title: "AnimeciX",
           icon: path.join(this.dir, "files", "icon.png"),
@@ -54,6 +54,7 @@ export class Main {
         });
 
         //win.webContents.openDevTools()
+        
 
         // Check for updates
         const updater = new Updater(this.win);
@@ -185,7 +186,7 @@ export class Main {
           {
             label: "İletişim",
             click: async () => {
-              await shell.openExternal("https://animecix.net/contact");
+              await shell.openExternal("https://anm.cx/contact");
             },
           },
         ],
