@@ -70,8 +70,9 @@ npm run buildMac #Arm64 Mac için kurulum dosyası oluşturur.
 
 ## İletişim
 
-Resmi bir proje değildir, destek için geliştiricilere yazmayın,
-Ancak herhangi bir sorunuzda benimle iletişim kurmaktan çekinmeyin.
+Uygulama resmi olarak geliştirilmektedir.
+Ancak, destek talepleriniz için Animecix geliştiricileriyle iletişime geçmemenizi rica ederiz.
+Herhangi bir sorunuz veya geri bildiriminiz için benimle iletişim kurmaktan çekinmeyin
 
 - [discord.gg/RBPUchD4ze](https://discord.com/invite/RBPUchD4ze)
 - Discord: [axis27](https://discord.com/users/286890811763720202)
