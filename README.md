@@ -25,7 +25,7 @@ Yok
 
 ---
 
-[animecix.net](https://animecix.net) web sitesinin macbook uygulamasıdır.
+[animecix.net](https://anm.cx) web sitesinin macbook uygulamasıdır.
 
 [Electron](https://www.electronjs.org/) ile oluşturulmuştur. Typescript ile yazılmıştır.
 
