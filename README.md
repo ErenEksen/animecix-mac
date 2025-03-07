@@ -1,7 +1,7 @@
 # AnimeciX MacOS
 [Click Here To see the English version](https://github.com/ErenEksen/animecix-mac/blob/main/README-en.md)
 
-MacOS için Animecix Desktop uygulaması.
+MacOS için resmi Animecix Desktop uygulaması.
 
 ![animecix-mac1](https://github.com/user-attachments/assets/bb484881-4e19-4183-a67e-0eb46e1f6a35)
 
