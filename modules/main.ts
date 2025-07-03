@@ -186,7 +186,7 @@ export class Main {
           {
             label: "İletişim",
             click: async () => {
-              await shell.openExternal("https://anm.cx/contact");
+              await shell.openExternal("https://animecix.tv/contact");
             },
           },
         ],
