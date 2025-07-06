@@ -13,8 +13,9 @@ Yok
 ### 💯 Neler Çalışıyor
 
 - **DiscordRPC**: Her şeyiyle harika çalışıyor!
+- **Otomatik Güncellemeler**: yeni sürüm çıktığında endişelenmeniz gereken bir şey yok!
 - **Tüm Video Oynatıcılar**
-- **Video İndirme**
+- **Birlikte İzleme**
 - **Kaldığın yerden devam et**
 - **Reklamsız video oynatma**
 - **Otomatik sonraki bölüme geçme**
